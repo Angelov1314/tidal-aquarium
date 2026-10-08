@@ -1,0 +1,18 @@
+# Roblox/Rojo generated output
+build/
+*.rbxl
+*.rbxlx
+.godot/
+
+# Local tools, caches and operating-system files
+.tools/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+
+# Local credentials and account configuration
+.env
+.env.*
+*.pem
+*.p12

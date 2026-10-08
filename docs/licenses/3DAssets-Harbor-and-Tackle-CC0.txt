@@ -1,0 +1,11 @@
+Harbor and Tackle — 3DAssets.dev
+
+The pack page states that this pack and its models are released under CC0 1.0
+Universal, with commercial use, modification and redistribution allowed and no
+attribution required:
+https://3dassets.dev/packs/harbor-and-tackle
+
+License text: https://creativecommons.org/publicdomain/zero/1.0/
+
+The downloaded files are the site's direct GLB CDN files. They are retained as
+GLB because the source provides self-contained glTF binary models.

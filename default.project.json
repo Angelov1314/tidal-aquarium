@@ -1,0 +1,131 @@
+{
+  "name": "TidalAquarium",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "$properties": {
+        "Gravity": 196.2
+      },
+      "Camera": {
+        "$className": "Camera",
+        "$properties": {
+          "FieldOfView": 70
+        }
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "FishingShared": {
+        "$path": "src/shared"
+      },
+      "FishingArt": {
+        "$path": "assets/roblox/FishingArt.rbxmx"
+      },
+      "NatureArt": {
+        "$className": "Folder",
+        "PlantFlowers": {
+          "$path": "assets/roblox/NatureArt/Quaternius_PlantFlowers_r1.rbxm"
+        },
+        "Bush": {
+          "$path": "assets/roblox/NatureArt/Quaternius_Bush_r1.rbxm"
+        },
+        "FlowerClump": {
+          "$path": "assets/roblox/NatureArt/Quaternius_FlowerClump_r1.rbxm"
+        },
+        "GrassSmall": {
+          "$path": "assets/roblox/NatureArt/Quaternius_GrassSmall_r1.rbxm"
+        }
+      }
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "NPCTemplates": {
+        "$path": "assets/roblox/NPCTemplates.rbxmx"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "FishingServer": {
+        "$path": "src/server"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "$properties": {
+        "CameraMaxZoomDistance": 100,
+        "CameraMinZoomDistance": 8
+      },
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$path": "src/client"
+      }
+    },
+    "Lighting": {
+      "$className": "Lighting",
+      "$properties": {
+        "ClockTime": 14,
+        "Brightness": 2.5,
+        "Ambient": [
+          0.62,
+          0.7,
+          0.73
+        ],
+        "OutdoorAmbient": [
+          0.62,
+          0.7,
+          0.73
+        ],
+        "EnvironmentDiffuseScale": 0.7,
+        "EnvironmentSpecularScale": 0.6,
+        "GlobalShadows": true,
+        "LightingStyle": "Realistic",
+        "PrioritizeLightingQuality": false
+      },
+      "Atmosphere": {
+        "$className": "Atmosphere",
+        "$properties": {
+          "Density": 0.22,
+          "Offset": 0.2,
+          "Color": [
+            0.76,
+            0.91,
+            1
+          ],
+          "Decay": [
+            0.66,
+            0.77,
+            0.83
+          ],
+          "Haze": 1
+        }
+      },
+      "ColorCorrection": {
+        "$className": "ColorCorrectionEffect",
+        "$properties": {
+          "Saturation": 0.12,
+          "Contrast": 0.05,
+          "TintColor": [
+            1,
+            0.98,
+            0.94
+          ]
+        }
+      },
+      "Bloom": {
+        "$className": "BloomEffect",
+        "$properties": {
+          "Intensity": 0.12,
+          "Size": 24,
+          "Threshold": 1.5
+        }
+      }
+    },
+    "SoundService": {
+      "$className": "SoundService",
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}

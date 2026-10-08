@@ -1,0 +1,3220 @@
+{
+  "schemaVersion": 1,
+  "generatedBy": "fishing/tools/generate_theme_fish_assets.py",
+  "baseLibrary": {
+    "path": "assets/roblox/FishingArt.rbxmx (pre-derivative checkpoint omitted)",
+    "sha256Before": "8c5cb972b06d31b57aa608e024d0e50ddd7eb22a4c48d06642cf29508e355355",
+    "rootCountBefore": 53,
+    "preservedRootSignatures": {
+      "Anglerfish": "7ce2f6df65efce6e541d537f4ee9294bef3d97d941b08b2d80efa76adba167d4",
+      "ArmoredCatfish": "d8f4a1c617d130f260239ca5a50cfdbccd6c11eca8e0fc6c6a9f0f15dc2c20f4",
+      "Betta": "52de7f135221f525e06387c4f3d2593e2d4f7e80ff0b591e5d0cc5d991791c14",
+      "BlackLionFish": "eb59e3b91c7941adbe781c3169f711daf572cd3ae40c6feaac9d7b1f3df4ca0a",
+      "Blobfish": "0ec9889e3063834c52b25a7fa50e344804ff4223cfdee4783a525ac785f9f0a8",
+      "BlueGoldfish": "c4de990695fa88e3bd4489d2b252783f1e40ea8a66385e7ae7d3158fe23c0232",
+      "BlueTang": "c191c4326c2da0367706e3754a57b2542b6199876792d84977d23c6eb12c7b00",
+      "Boat": "2140ca4b2156f1726c51095da984995335e861bfb1a60fe4858dfc87d3368bdc",
+      "ButterflyFish": "9cfea55c6a7cc24d0ac151d9d19bb950f7c946bf8e924a51296c12d6904573a8",
+      "CardinalFish": "44572aef9f97de7c702a72a5e9ff405ffea8ec46ebf5d663d5f348d4d487d7df",
+      "Clownfish": "bdcb3dbd188fa3adc4b6c0c0a2c74b11298db7b21d5a1357f5e6758d2700b70c",
+      "CoralGrouper": "00b38514ca66672b483b92d34749552fe243598229e66f98762c558c08cf82f7",
+      "Cowfish": "eb3899fac7843a3fdd6c6e50e2ddf88646be9a033caa58ab25121ea8a06a4edd",
+      "Dock": "a69b4496f8ace319f5c55517f2dbb21ede359537c535dd01ed1ba1c75428d68a",
+      "EagleRay": "7c2582815a697098f9b8cf4b1d8533cb7a9ccc75a00e49ad110c51ea13dd4bd1",
+      "Eel": "52cb225ab96aae9bc83e64d7b45164c043b4f54d92d5d0951d166fa24136689b",
+      "FishingBucket": "faf2f6d09513f38002fa3522672512230ea5c6273da16b702748ee5621c000f2",
+      "FishingRod": "8fa1f69a5c0088db561abc64acbebba8e423fc5f521dad96e8a356da6f785e3c",
+      "Flatfish": "94a3ed2ac626e78a339b51ab658938bb2d88aba6730a402f0b7683796563974f",
+      "FlowerHorn": "004f8c9ff8d32c06fb345dcca6980dceddfa5e4256e6e6db2244da39ea27e1ce",
+      "GoblinShark": "6689c610ddc947460549e94c0d6f7471058e3fbf3a2512cdb73ceffe5781a6d4",
+      "Goldfish": "13fcae866ecf3f53501a2452fe67518e8d2fd1ddf987668e78a5a0d09feee9ad",
+      "Humphead": "695f8218fd857123815e9d1f5bfe095830ef44ce05d95b08402b815584418a7f",
+      "Jellyfish": "fb96470af25b07c029b2c103cfbcba69203ebad337ef676d850af8520d6c9145",
+      "Koi": "51568f94a8e25dcdf5bf43d99014dcc088f0971fa9cd175f20834056311f71c2",
+      "Lionfish": "cd7b1b0a3d21c11be64a083651500eb2e388ca5da5ab14fdf77fd7db5af3707e",
+      "Lobster": "ecd1d0b04019367c318a461f67dfe08dd3764efa0d53d17eedf034d1e2b2ad47",
+      "LureDisplayBoard": "bbc87e60d861208f020daf4b4fda00376243012345559007c09567ae203ca0d0",
+      "MandarinFish": "90dd67d4b9febcfb530ce169ea310371587c8e3d18ca53d8a16687e422f817f9",
+      "MantaRay": "d3ee6a48bc4d7f64db1ccf212351e410f406325146890b260cb0fcaa56b98c13",
+      "MoorishIdol": "3dccc1445a617514331896bec46c40eea3ccf8ef387a3e83c34b193e5a6b76eb",
+      "Narwhal": "d44f1b0239b9a85e1a147c5fb335bf19d94a483e6810da78dba046d8c7a97593",
+      "Octopus": "aeaac5ed658ea5177ae21715737c10aed17197005ee9dd9df24cf26a5d29d394",
+      "Palm": "abfdd761ffb66758cd30ae5788087d2569161f1e16e865dbe326fb0f1f91ece9",
+      "ParrotFish": "e0e104e394372b71651be85606b57ba862391877a8fb18f16ccb3c4ded51915c",
+      "Piranha": "a6b3b393789545abfa324ea0da657a2613bac7c715a47dbc82a3223139921695",
+      "Puffer": "6a0e400ae11b148bacd121710d00427d64c78d6d3a89696250fcb7bd337ec7ac",
+      "RedSnapper": "9e0b25ba0e312d159eff4b07f27738741d9c57bee534d5a1a7dd54b91b7c5600",
+      "RodRack": "23fdb6f08287283143b260af27041946d5225a536f73690b583ea39eb8db4e42",
+      "RoyalGramma": "95f076dd4c5ed7fb294629329962d034c561d691a8b7af23dec4819e33ae5785",
+      "SeaSerpent": "5a766178aa90d155eba205316031d582132f8519a09abc16811fb63f38cad0fb",
+      "Seahorse": "cf4b00d58af28f2a8c7b91e2c9d525abc73ed486075ffa68242ae0b2ede1c814",
+      "Shark": "6afc8d3e9ca3f809376e16f34552a3c6165407c90d04ffba937c1cf20a64b41f",
+      "SharkPuppy": "a408b1f5ef1e7f008b587af34bc00a432857a09b8d3c02d9790b5400f3b1d886",
+      "Squid": "41c15753a0136edf9ab5043df4feb781d8f2cafa951914ebde0cc21462d0bbdc",
+      "Sunfish": "9d4b85b2aa68d11b9e7796fd8fb8939de9fbd54fbf8f05c4981ba758f365bc6d",
+      "Swordfish": "1bc8810fc753551db4935c9ceaea24b4e0544c3999bf885e2daeca5399d6d311",
+      "Tang": "1001d32a42ab5878e659818d8d24ca96b827c790292f3f101ca2dfe4809d229e",
+      "Tetra": "d9a0056ed6ee800220e65e26c34364ea1415144fe34d9c4b0797928b023332c7",
+      "Tuna": "ba31cdacc8f8139937eef2d65c571d60edcfdb7df166b9214a96642349bb7696",
+      "Turbot": "9a5b232711ba62a955d7bda50f3a47ba7e700a0efa332a53d0dc792aab505069",
+      "Turtle": "9fe1cc0b819970f2c53851d02c4a553707d3b2db229644025ef8fb006f4a0608",
+      "Whale": "e746b9a9eb1014208ebb8fc94f3301a03d8f6b5cb3bb01aa815e193c57b6c193"
+    }
+  },
+  "derivatives": [
+    {
+      "speciesId": "mystic_lake_lotus_carp",
+      "template": "MysticLake_LotusCarp",
+      "theme": "mystic_lake",
+      "baseTemplate": "Koi",
+      "baseRootSha256": "51568f94a8e25dcdf5bf43d99014dcc088f0971fa9cd175f20834056311f71c2",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            88.52676,
+            19.0673,
+            42.22046
+          ],
+          "offset": [
+            0.18,
+            0.15,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            92,
+            188,
+            181
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            74.90726,
+            16.3434,
+            36.77266
+          ],
+          "offset": [
+            0.13,
+            0.15,
+            0.13
+          ],
+          "materialToken": 256,
+          "color": [
+            92,
+            188,
+            181
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_MoonLantern_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            25.87705,
+            25.87705,
+            25.87705
+          ],
+          "offset": [
+            -0.1,
+            0.08,
+            0.1
+          ],
+          "materialToken": 256,
+          "color": [
+            92,
+            188,
+            181
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_WaterRipple_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            78.31214,
+            9.53365,
+            9.53365
+          ],
+          "offset": [
+            -0.2,
+            -0.08,
+            -0.12
+          ],
+          "materialToken": 256,
+          "color": [
+            92,
+            188,
+            181
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 567.47925
+    },
+    {
+      "speciesId": "mystic_lake_lantern_goby",
+      "template": "MysticLake_LanternGoby",
+      "theme": "mystic_lake",
+      "baseTemplate": "Seahorse",
+      "baseRootSha256": "cf4b00d58af28f2a8c7b91e2c9d525abc73ed486075ffa68242ae0b2ede1c814",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.624,
+            0.1344,
+            0.2976
+          ],
+          "offset": [
+            0.18,
+            0.15,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            116,
+            229,
+            199
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1152,
+            0.2592
+          ],
+          "offset": [
+            0.13,
+            0.15,
+            0.13
+          ],
+          "materialToken": 288,
+          "color": [
+            116,
+            229,
+            199
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_MoonLantern_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1824,
+            0.1824,
+            0.1824
+          ],
+          "offset": [
+            -0.1,
+            0.08,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            116,
+            229,
+            199
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_WaterRipple_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.552,
+            0.0672,
+            0.0672
+          ],
+          "offset": [
+            -0.2,
+            -0.08,
+            -0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            116,
+            229,
+            199
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "mystic_lake_moonfin",
+      "template": "MysticLake_Moonfin",
+      "theme": "mystic_lake",
+      "baseTemplate": "MantaRay",
+      "baseRootSha256": "d3ee6a48bc4d7f64db1ccf212351e410f406325146890b260cb0fcaa56b98c13",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.624,
+            0.1344,
+            0.2976
+          ],
+          "offset": [
+            0.18,
+            0.15,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            89,
+            157,
+            236
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1152,
+            0.2592
+          ],
+          "offset": [
+            0.13,
+            0.15,
+            0.13
+          ],
+          "materialToken": 256,
+          "color": [
+            89,
+            157,
+            236
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_MoonLantern_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1824,
+            0.1824,
+            0.1824
+          ],
+          "offset": [
+            -0.1,
+            0.08,
+            0.1
+          ],
+          "materialToken": 256,
+          "color": [
+            89,
+            157,
+            236
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_WaterRipple_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.552,
+            0.0672,
+            0.0672
+          ],
+          "offset": [
+            -0.2,
+            -0.08,
+            -0.12
+          ],
+          "materialToken": 256,
+          "color": [
+            89,
+            157,
+            236
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "mystic_lake_spirit_koi",
+      "template": "MysticLake_SpiritKoi",
+      "theme": "mystic_lake",
+      "baseTemplate": "Koi",
+      "baseRootSha256": "51568f94a8e25dcdf5bf43d99014dcc088f0971fa9cd175f20834056311f71c2",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            88.52676,
+            19.0673,
+            42.22046
+          ],
+          "offset": [
+            0.18,
+            0.15,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            174,
+            125,
+            239
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            74.90726,
+            16.3434,
+            36.77266
+          ],
+          "offset": [
+            0.13,
+            0.15,
+            0.13
+          ],
+          "materialToken": 288,
+          "color": [
+            174,
+            125,
+            239
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_MoonLantern_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            25.87705,
+            25.87705,
+            25.87705
+          ],
+          "offset": [
+            -0.1,
+            0.08,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            174,
+            125,
+            239
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_WaterRipple_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            78.31214,
+            9.53365,
+            9.53365
+          ],
+          "offset": [
+            -0.2,
+            -0.08,
+            -0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            174,
+            125,
+            239
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 567.47925
+    },
+    {
+      "speciesId": "mystic_lake_oracle_eel",
+      "template": "MysticLake_OracleEel",
+      "theme": "mystic_lake",
+      "baseTemplate": "Eel",
+      "baseRootSha256": "52cb225ab96aae9bc83e64d7b45164c043b4f54d92d5d0951d166fa24136689b",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.624,
+            0.1344,
+            0.2976
+          ],
+          "offset": [
+            0.18,
+            0.15,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            244,
+            198,
+            72
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1152,
+            0.2592
+          ],
+          "offset": [
+            0.13,
+            0.15,
+            0.13
+          ],
+          "materialToken": 256,
+          "color": [
+            244,
+            198,
+            72
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_MoonLantern_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1824,
+            0.1824,
+            0.1824
+          ],
+          "offset": [
+            -0.1,
+            0.08,
+            0.1
+          ],
+          "materialToken": 256,
+          "color": [
+            244,
+            198,
+            72
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_WaterRipple_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.552,
+            0.0672,
+            0.0672
+          ],
+          "offset": [
+            -0.2,
+            -0.08,
+            -0.12
+          ],
+          "materialToken": 256,
+          "color": [
+            244,
+            198,
+            72
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "mystic_lake_moon_whale",
+      "template": "MysticLake_MoonWhale",
+      "theme": "mystic_lake",
+      "baseTemplate": "Whale",
+      "baseRootSha256": "e746b9a9eb1014208ebb8fc94f3301a03d8f6b5cb3bb01aa815e193c57b6c193",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.78,
+            0.168,
+            0.372
+          ],
+          "offset": [
+            0.18,
+            0.15,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            227,
+            95,
+            132
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.66,
+            0.144,
+            0.324
+          ],
+          "offset": [
+            0.13,
+            0.15,
+            0.13
+          ],
+          "materialToken": 256,
+          "color": [
+            227,
+            95,
+            132
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_MoonLantern_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.228,
+            0.228,
+            0.228
+          ],
+          "offset": [
+            -0.1,
+            0.08,
+            0.1
+          ],
+          "materialToken": 256,
+          "color": [
+            227,
+            95,
+            132
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_WaterRipple_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.69,
+            0.084,
+            0.084
+          ],
+          "offset": [
+            -0.2,
+            -0.08,
+            -0.12
+          ],
+          "materialToken": 256,
+          "color": [
+            227,
+            95,
+            132
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 5.0
+    },
+    {
+      "speciesId": "mystic_lake_aurora_dragon",
+      "template": "MysticLake_AuroraDragon",
+      "theme": "mystic_lake",
+      "baseTemplate": "SeaSerpent",
+      "baseRootSha256": "5a766178aa90d155eba205316031d582132f8519a09abc16811fb63f38cad0fb",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.624,
+            0.1344,
+            0.2976
+          ],
+          "offset": [
+            0.18,
+            0.15,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            245,
+            121,
+            206
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_LotusPetal_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1152,
+            0.2592
+          ],
+          "offset": [
+            0.13,
+            0.15,
+            0.13
+          ],
+          "materialToken": 288,
+          "color": [
+            245,
+            121,
+            206
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_MoonLantern_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1824,
+            0.1824,
+            0.1824
+          ],
+          "offset": [
+            -0.1,
+            0.08,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            245,
+            121,
+            206
+          ]
+        },
+        {
+          "name": "ThemeDeco_mystic_lake_WaterRipple_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.552,
+            0.0672,
+            0.0672
+          ],
+          "offset": [
+            -0.2,
+            -0.08,
+            -0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            245,
+            121,
+            206
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "lava_fishing_cinder_guppy",
+      "template": "LavaFishing_CinderGuppy",
+      "theme": "lava_fishing_ground",
+      "baseTemplate": "Puffer",
+      "baseRootSha256": "6a0e400ae11b148bacd121710d00427d64c78d6d3a89696250fcb7bd337ec7ac",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.74787,
+            0.20265,
+            0.14475
+          ],
+          "offset": [
+            -0.16,
+            0.1,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            222,
+            112,
+            59
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.5211,
+            0.14475,
+            0.12062
+          ],
+          "offset": [
+            -0.05,
+            0.14,
+            0.05
+          ],
+          "materialToken": 256,
+          "color": [
+            222,
+            112,
+            59
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_MagmaCore_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.29915,
+            0.29915,
+            0.29915
+          ],
+          "offset": [
+            0.18,
+            -0.04,
+            0.08
+          ],
+          "materialToken": 256,
+          "color": [
+            222,
+            112,
+            59
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_HeatFin_4",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.60312,
+            0.14475,
+            0.0965
+          ],
+          "offset": [
+            -0.08,
+            -0.12,
+            -0.13
+          ],
+          "materialToken": 256,
+          "color": [
+            222,
+            112,
+            59
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0208
+    },
+    {
+      "speciesId": "lava_fishing_ash_puffer",
+      "template": "LavaFishing_AshPuffer",
+      "theme": "lava_fishing_ground",
+      "baseTemplate": "Puffer",
+      "baseRootSha256": "6a0e400ae11b148bacd121710d00427d64c78d6d3a89696250fcb7bd337ec7ac",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.74787,
+            0.20265,
+            0.14475
+          ],
+          "offset": [
+            -0.16,
+            0.1,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            236,
+            145,
+            63
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.5211,
+            0.14475,
+            0.12062
+          ],
+          "offset": [
+            -0.05,
+            0.14,
+            0.05
+          ],
+          "materialToken": 288,
+          "color": [
+            236,
+            145,
+            63
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_MagmaCore_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.29915,
+            0.29915,
+            0.29915
+          ],
+          "offset": [
+            0.18,
+            -0.04,
+            0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            236,
+            145,
+            63
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_HeatFin_4",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.60312,
+            0.14475,
+            0.0965
+          ],
+          "offset": [
+            -0.08,
+            -0.12,
+            -0.13
+          ],
+          "materialToken": 288,
+          "color": [
+            236,
+            145,
+            63
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0208
+    },
+    {
+      "speciesId": "lava_fishing_magma_tetra",
+      "template": "LavaFishing_MagmaTetra",
+      "theme": "lava_fishing_ground",
+      "baseTemplate": "Tetra",
+      "baseRootSha256": "d9a0056ed6ee800220e65e26c34364ea1415144fe34d9c4b0797928b023332c7",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            98.09408,
+            26.58033,
+            18.98595
+          ],
+          "offset": [
+            -0.16,
+            0.1,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            242,
+            83,
+            47
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            68.34942,
+            18.98595,
+            15.82163
+          ],
+          "offset": [
+            -0.05,
+            0.14,
+            0.05
+          ],
+          "materialToken": 288,
+          "color": [
+            242,
+            83,
+            47
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_MagmaCore_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            39.23763,
+            39.23763,
+            39.23763
+          ],
+          "offset": [
+            0.18,
+            -0.04,
+            0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            242,
+            83,
+            47
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_HeatFin_4",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            79.10813,
+            18.98595,
+            12.6573
+          ],
+          "offset": [
+            -0.08,
+            -0.12,
+            -0.13
+          ],
+          "materialToken": 288,
+          "color": [
+            242,
+            83,
+            47
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 527.38751
+    },
+    {
+      "speciesId": "lava_fishing_basalt_lionfish",
+      "template": "LavaFishing_BasaltLionfish",
+      "theme": "lava_fishing_ground",
+      "baseTemplate": "Lionfish",
+      "baseRootSha256": "cd7b1b0a3d21c11be64a083651500eb2e388ca5da5ab14fdf77fd7db5af3707e",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            118.14397,
+            32.0132,
+            22.86657
+          ],
+          "offset": [
+            -0.16,
+            0.1,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            174,
+            66,
+            52
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            82.31967,
+            22.86657,
+            19.05548
+          ],
+          "offset": [
+            -0.05,
+            0.14,
+            0.05
+          ],
+          "materialToken": 256,
+          "color": [
+            174,
+            66,
+            52
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_MagmaCore_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            47.25759,
+            47.25759,
+            47.25759
+          ],
+          "offset": [
+            0.18,
+            -0.04,
+            0.08
+          ],
+          "materialToken": 256,
+          "color": [
+            174,
+            66,
+            52
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_HeatFin_4",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            95.27739,
+            22.86657,
+            15.24438
+          ],
+          "offset": [
+            -0.08,
+            -0.12,
+            -0.13
+          ],
+          "materialToken": 256,
+          "color": [
+            174,
+            66,
+            52
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 635.18262
+    },
+    {
+      "speciesId": "lava_fishing_ember_swordfish",
+      "template": "LavaFishing_EmberSwordfish",
+      "theme": "lava_fishing_ground",
+      "baseTemplate": "Swordfish",
+      "baseRootSha256": "1bc8810fc753551db4935c9ceaea24b4e0544c3999bf885e2daeca5399d6d311",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            119.9371,
+            32.49909,
+            23.21363
+          ],
+          "offset": [
+            -0.16,
+            0.1,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            247,
+            177,
+            48
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            83.56908,
+            23.21363,
+            19.34469
+          ],
+          "offset": [
+            -0.05,
+            0.14,
+            0.05
+          ],
+          "materialToken": 288,
+          "color": [
+            247,
+            177,
+            48
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_MagmaCore_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            47.97484,
+            47.97484,
+            47.97484
+          ],
+          "offset": [
+            0.18,
+            -0.04,
+            0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            247,
+            177,
+            48
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_HeatFin_4",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            96.72347,
+            23.21363,
+            15.47575
+          ],
+          "offset": [
+            -0.08,
+            -0.12,
+            -0.13
+          ],
+          "materialToken": 288,
+          "color": [
+            247,
+            177,
+            48
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 644.82312
+    },
+    {
+      "speciesId": "lava_fishing_volcano_ray",
+      "template": "LavaFishing_VolcanoRay",
+      "theme": "lava_fishing_ground",
+      "baseTemplate": "MantaRay",
+      "baseRootSha256": "d3ee6a48bc4d7f64db1ccf212351e410f406325146890b260cb0fcaa56b98c13",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.744,
+            0.2016,
+            0.144
+          ],
+          "offset": [
+            -0.16,
+            0.1,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            239,
+            68,
+            46
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.5184,
+            0.144,
+            0.12
+          ],
+          "offset": [
+            -0.05,
+            0.14,
+            0.05
+          ],
+          "materialToken": 256,
+          "color": [
+            239,
+            68,
+            46
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_MagmaCore_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.2976,
+            0.2976,
+            0.2976
+          ],
+          "offset": [
+            0.18,
+            -0.04,
+            0.08
+          ],
+          "materialToken": 256,
+          "color": [
+            239,
+            68,
+            46
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_HeatFin_4",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.6,
+            0.144,
+            0.096
+          ],
+          "offset": [
+            -0.08,
+            -0.12,
+            -0.13
+          ],
+          "materialToken": 256,
+          "color": [
+            239,
+            68,
+            46
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "lava_fishing_inferno_serpent",
+      "template": "LavaFishing_InfernoSerpent",
+      "theme": "lava_fishing_ground",
+      "baseTemplate": "SeaSerpent",
+      "baseRootSha256": "5a766178aa90d155eba205316031d582132f8519a09abc16811fb63f38cad0fb",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_1",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.744,
+            0.2016,
+            0.144
+          ],
+          "offset": [
+            -0.16,
+            0.1,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            255,
+            104,
+            47
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_BasaltSpine_2",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.5184,
+            0.144,
+            0.12
+          ],
+          "offset": [
+            -0.05,
+            0.14,
+            0.05
+          ],
+          "materialToken": 288,
+          "color": [
+            255,
+            104,
+            47
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_MagmaCore_3",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.2976,
+            0.2976,
+            0.2976
+          ],
+          "offset": [
+            0.18,
+            -0.04,
+            0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            255,
+            104,
+            47
+          ]
+        },
+        {
+          "name": "ThemeDeco_lava_fishing_ground_HeatFin_4",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.6,
+            0.144,
+            0.096
+          ],
+          "offset": [
+            -0.08,
+            -0.12,
+            -0.13
+          ],
+          "materialToken": 288,
+          "color": [
+            255,
+            104,
+            47
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "alien_waters_ring_minno",
+      "template": "AlienWaters_RingMinno",
+      "theme": "alien_waters",
+      "baseTemplate": "Tetra",
+      "baseRootSha256": "d9a0056ed6ee800220e65e26c34364ea1415144fe34d9c4b0797928b023332c7",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_1",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            44.30055,
+            7.59438,
+            7.59438
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            90,
+            209,
+            190
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_2",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            44.30055,
+            7.59438,
+            7.59438
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            90,
+            209,
+            190
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            44.30055,
+            7.59438,
+            7.59438
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            90,
+            209,
+            190
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_SignalOrb_4",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            26.58033,
+            26.58033,
+            26.58033
+          ],
+          "offset": [
+            0.2,
+            0.04,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            90,
+            209,
+            190
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_AntennaFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            56.95785,
+            11.39157,
+            10.12584
+          ],
+          "offset": [
+            -0.18,
+            -0.1,
+            -0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            90,
+            209,
+            190
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 527.38751
+    },
+    {
+      "speciesId": "alien_waters_neon_molly",
+      "template": "AlienWaters_NeonMolly",
+      "theme": "alien_waters",
+      "baseTemplate": "Goldfish",
+      "baseRootSha256": "13fcae866ecf3f53501a2452fe67518e8d2fd1ddf987668e78a5a0d09feee9ad",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_1",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            47.38377,
+            8.12293,
+            8.12293
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            91,
+            232,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_2",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            47.38377,
+            8.12293,
+            8.12293
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            91,
+            232,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            47.38377,
+            8.12293,
+            8.12293
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            91,
+            232,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_SignalOrb_4",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            28.43026,
+            28.43026,
+            28.43026
+          ],
+          "offset": [
+            0.2,
+            0.04,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            91,
+            232,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_AntennaFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            60.92199,
+            12.1844,
+            10.83058
+          ],
+          "offset": [
+            -0.18,
+            -0.1,
+            -0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            91,
+            232,
+            224
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 564.09253
+    },
+    {
+      "speciesId": "alien_waters_comet_tetra",
+      "template": "AlienWaters_CometTetra",
+      "theme": "alien_waters",
+      "baseTemplate": "Tetra",
+      "baseRootSha256": "d9a0056ed6ee800220e65e26c34364ea1415144fe34d9c4b0797928b023332c7",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_1",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            44.30055,
+            7.59438,
+            7.59438
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            74,
+            178,
+            245
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_2",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            44.30055,
+            7.59438,
+            7.59438
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            74,
+            178,
+            245
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            44.30055,
+            7.59438,
+            7.59438
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            74,
+            178,
+            245
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_SignalOrb_4",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            26.58033,
+            26.58033,
+            26.58033
+          ],
+          "offset": [
+            0.2,
+            0.04,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            74,
+            178,
+            245
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_AntennaFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            56.95785,
+            11.39157,
+            10.12584
+          ],
+          "offset": [
+            -0.18,
+            -0.1,
+            -0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            74,
+            178,
+            245
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 527.38751
+    },
+    {
+      "speciesId": "alien_waters_void_octopus",
+      "template": "AlienWaters_VoidOctopus",
+      "theme": "alien_waters",
+      "baseTemplate": "Octopus",
+      "baseRootSha256": "aeaac5ed658ea5177ae21715737c10aed17197005ee9dd9df24cf26a5d29d394",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_1",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            152,
+            111,
+            236
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_2",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            152,
+            111,
+            236
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            152,
+            111,
+            236
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_SignalOrb_4",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.2016,
+            0.2016,
+            0.2016
+          ],
+          "offset": [
+            0.2,
+            0.04,
+            0.1
+          ],
+          "materialToken": 256,
+          "color": [
+            152,
+            111,
+            236
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_AntennaFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.432,
+            0.0864,
+            0.0768
+          ],
+          "offset": [
+            -0.18,
+            -0.1,
+            -0.08
+          ],
+          "materialToken": 256,
+          "color": [
+            152,
+            111,
+            236
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "alien_waters_prism_narwhal",
+      "template": "AlienWaters_PrismNarwhal",
+      "theme": "alien_waters",
+      "baseTemplate": "Narwhal",
+      "baseRootSha256": "d44f1b0239b9a85e1a147c5fb335bf19d94a483e6810da78dba046d8c7a97593",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_1",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            246,
+            207,
+            75
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_2",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            246,
+            207,
+            75
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            246,
+            207,
+            75
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_SignalOrb_4",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.2016,
+            0.2016,
+            0.2016
+          ],
+          "offset": [
+            0.2,
+            0.04,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            246,
+            207,
+            75
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_AntennaFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.432,
+            0.0864,
+            0.0768
+          ],
+          "offset": [
+            -0.18,
+            -0.1,
+            -0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            246,
+            207,
+            75
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "alien_waters_quasar_manta",
+      "template": "AlienWaters_QuasarManta",
+      "theme": "alien_waters",
+      "baseTemplate": "MantaRay",
+      "baseRootSha256": "d3ee6a48bc4d7f64db1ccf212351e410f406325146890b260cb0fcaa56b98c13",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_1",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            229,
+            82,
+            180
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_2",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            229,
+            82,
+            180
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.336,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            229,
+            82,
+            180
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_SignalOrb_4",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.2016,
+            0.2016,
+            0.2016
+          ],
+          "offset": [
+            0.2,
+            0.04,
+            0.1
+          ],
+          "materialToken": 288,
+          "color": [
+            229,
+            82,
+            180
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_AntennaFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.432,
+            0.0864,
+            0.0768
+          ],
+          "offset": [
+            -0.18,
+            -0.1,
+            -0.08
+          ],
+          "materialToken": 288,
+          "color": [
+            229,
+            82,
+            180
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "alien_waters_galaxy_whale",
+      "template": "AlienWaters_GalaxyWhale",
+      "theme": "alien_waters",
+      "baseTemplate": "Whale",
+      "baseRootSha256": "e746b9a9eb1014208ebb8fc94f3301a03d8f6b5cb3bb01aa815e193c57b6c193",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_1",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.42,
+            0.072,
+            0.072
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            204,
+            102,
+            255
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_2",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.42,
+            0.072,
+            0.072
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            204,
+            102,
+            255
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_OrbitRing_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.42,
+            0.072,
+            0.072
+          ],
+          "offset": [
+            0.0,
+            0.16,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            204,
+            102,
+            255
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_SignalOrb_4",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.252,
+            0.252,
+            0.252
+          ],
+          "offset": [
+            0.2,
+            0.04,
+            0.1
+          ],
+          "materialToken": 256,
+          "color": [
+            204,
+            102,
+            255
+          ]
+        },
+        {
+          "name": "ThemeDeco_alien_waters_AntennaFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.54,
+            0.108,
+            0.096
+          ],
+          "offset": [
+            -0.18,
+            -0.1,
+            -0.08
+          ],
+          "materialToken": 256,
+          "color": [
+            204,
+            102,
+            255
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 5.0
+    },
+    {
+      "speciesId": "chemistry_lab_buffer_betta",
+      "template": "ChemistryLab_BufferBetta",
+      "theme": "chemistry_lab",
+      "baseTemplate": "Betta",
+      "baseRootSha256": "52de7f135221f525e06387c4f3d2593e2d4f7e80ff0b591e5d0cc5d991791c14",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_1",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            33.56262,
+            33.56262,
+            33.56262
+          ],
+          "offset": [
+            0.16,
+            0.12,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            118,
+            190,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_2",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            18.79507,
+            18.79507,
+            18.79507
+          ],
+          "offset": [
+            0.08,
+            0.18,
+            0.12
+          ],
+          "materialToken": 256,
+          "color": [
+            118,
+            190,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            57.05646,
+            8.05503,
+            8.05503
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 256,
+          "color": [
+            118,
+            190,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            57.05646,
+            8.05503,
+            8.05503
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 256,
+          "color": [
+            118,
+            190,
+            224
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_CrystalFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            73.83777,
+            21.48008,
+            13.42505
+          ],
+          "offset": [
+            -0.2,
+            -0.12,
+            -0.06
+          ],
+          "materialToken": 256,
+          "color": [
+            118,
+            190,
+            224
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 559.37701
+    },
+    {
+      "speciesId": "chemistry_lab_catalyst_carp",
+      "template": "ChemistryLab_CatalystCarp",
+      "theme": "chemistry_lab",
+      "baseTemplate": "Koi",
+      "baseRootSha256": "51568f94a8e25dcdf5bf43d99014dcc088f0971fa9cd175f20834056311f71c2",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_1",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            34.04875,
+            34.04875,
+            34.04875
+          ],
+          "offset": [
+            0.16,
+            0.12,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            96,
+            212,
+            169
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_2",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            19.0673,
+            19.0673,
+            19.0673
+          ],
+          "offset": [
+            0.08,
+            0.18,
+            0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            96,
+            212,
+            169
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            57.88288,
+            8.1717,
+            8.1717
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            96,
+            212,
+            169
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            57.88288,
+            8.1717,
+            8.1717
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            96,
+            212,
+            169
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_CrystalFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            74.90726,
+            21.7912,
+            13.6195
+          ],
+          "offset": [
+            -0.2,
+            -0.12,
+            -0.06
+          ],
+          "materialToken": 288,
+          "color": [
+            96,
+            212,
+            169
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 567.47925
+    },
+    {
+      "speciesId": "chemistry_lab_phosphor_eel",
+      "template": "ChemistryLab_PhosphorEel",
+      "theme": "chemistry_lab",
+      "baseTemplate": "Eel",
+      "baseRootSha256": "52cb225ab96aae9bc83e64d7b45164c043b4f54d92d5d0951d166fa24136689b",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_1",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.24,
+            0.24,
+            0.24
+          ],
+          "offset": [
+            0.16,
+            0.12,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            99,
+            193,
+            244
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_2",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1344,
+            0.1344,
+            0.1344
+          ],
+          "offset": [
+            0.08,
+            0.18,
+            0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            99,
+            193,
+            244
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            99,
+            193,
+            244
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            99,
+            193,
+            244
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_CrystalFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1536,
+            0.096
+          ],
+          "offset": [
+            -0.2,
+            -0.12,
+            -0.06
+          ],
+          "materialToken": 288,
+          "color": [
+            99,
+            193,
+            244
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "chemistry_lab_crystal_jelly",
+      "template": "ChemistryLab_CrystalJelly",
+      "theme": "chemistry_lab",
+      "baseTemplate": "Jellyfish",
+      "baseRootSha256": "fb96470af25b07c029b2c103cfbcba69203ebad337ef676d850af8520d6c9145",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_1",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.24,
+            0.24,
+            0.24
+          ],
+          "offset": [
+            0.16,
+            0.12,
+            0.0
+          ],
+          "materialToken": 256,
+          "color": [
+            177,
+            121,
+            228
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_2",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1344,
+            0.1344,
+            0.1344
+          ],
+          "offset": [
+            0.08,
+            0.18,
+            0.12
+          ],
+          "materialToken": 256,
+          "color": [
+            177,
+            121,
+            228
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 256,
+          "color": [
+            177,
+            121,
+            228
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 256,
+          "color": [
+            177,
+            121,
+            228
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_CrystalFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1536,
+            0.096
+          ],
+          "offset": [
+            -0.2,
+            -0.12,
+            -0.06
+          ],
+          "materialToken": 256,
+          "color": [
+            177,
+            121,
+            228
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "chemistry_lab_mercury_tuna",
+      "template": "ChemistryLab_MercuryTuna",
+      "theme": "chemistry_lab",
+      "baseTemplate": "Tuna",
+      "baseRootSha256": "ba31cdacc8f8139937eef2d65c571d60edcfdb7df166b9214a96642349bb7696",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_1",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            33.79271,
+            33.79271,
+            33.79271
+          ],
+          "offset": [
+            0.16,
+            0.12,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            240,
+            197,
+            72
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_2",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            18.92392,
+            18.92392,
+            18.92392
+          ],
+          "offset": [
+            0.08,
+            0.18,
+            0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            240,
+            197,
+            72
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            57.4476,
+            8.11025,
+            8.11025
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            240,
+            197,
+            72
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            57.4476,
+            8.11025,
+            8.11025
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            240,
+            197,
+            72
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_CrystalFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            74.34396,
+            21.62733,
+            13.51708
+          ],
+          "offset": [
+            -0.2,
+            -0.12,
+            -0.06
+          ],
+          "materialToken": 288,
+          "color": [
+            240,
+            197,
+            72
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 563.21179
+    },
+    {
+      "speciesId": "chemistry_lab_reactor_ray",
+      "template": "ChemistryLab_ReactorRay",
+      "theme": "chemistry_lab",
+      "baseTemplate": "MantaRay",
+      "baseRootSha256": "d3ee6a48bc4d7f64db1ccf212351e410f406325146890b260cb0fcaa56b98c13",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_1",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.24,
+            0.24,
+            0.24
+          ],
+          "offset": [
+            0.16,
+            0.12,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            233,
+            75,
+            118
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_2",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1344,
+            0.1344,
+            0.1344
+          ],
+          "offset": [
+            0.08,
+            0.18,
+            0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            233,
+            75,
+            118
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            233,
+            75,
+            118
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            233,
+            75,
+            118
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_CrystalFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1536,
+            0.096
+          ],
+          "offset": [
+            -0.2,
+            -0.12,
+            -0.06
+          ],
+          "materialToken": 288,
+          "color": [
+            233,
+            75,
+            118
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    },
+    {
+      "speciesId": "chemistry_lab_quanta_dragon",
+      "template": "ChemistryLab_QuantaDragon",
+      "theme": "chemistry_lab",
+      "baseTemplate": "SeaSerpent",
+      "baseRootSha256": "5a766178aa90d155eba205316031d582132f8519a09abc16811fb63f38cad0fb",
+      "sourceProvenance": "existing local FishingArt MeshPart/TextureID; generated inert Part accents",
+      "meshParts": 1,
+      "bones": 0,
+      "decorations": [
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_1",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.24,
+            0.24,
+            0.24
+          ],
+          "offset": [
+            0.16,
+            0.12,
+            0.0
+          ],
+          "materialToken": 288,
+          "color": [
+            237,
+            108,
+            219
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_ReagentBubble_2",
+          "class": "Part",
+          "shapeToken": 0,
+          "size": [
+            0.1344,
+            0.1344,
+            0.1344
+          ],
+          "offset": [
+            0.08,
+            0.18,
+            0.12
+          ],
+          "materialToken": 288,
+          "color": [
+            237,
+            108,
+            219
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_3",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            237,
+            108,
+            219
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_LabCoil_4",
+          "class": "Part",
+          "shapeToken": 2,
+          "size": [
+            0.408,
+            0.0576,
+            0.0576
+          ],
+          "offset": [
+            -0.1,
+            0.03,
+            0.14
+          ],
+          "materialToken": 288,
+          "color": [
+            237,
+            108,
+            219
+          ]
+        },
+        {
+          "name": "ThemeDeco_chemistry_lab_CrystalFin_5",
+          "class": "WedgePart",
+          "shapeToken": null,
+          "size": [
+            0.528,
+            0.1536,
+            0.096
+          ],
+          "offset": [
+            -0.2,
+            -0.12,
+            -0.06
+          ],
+          "materialToken": 288,
+          "color": [
+            237,
+            108,
+            219
+          ]
+        }
+      ],
+      "scripts": 0,
+      "massless": true,
+      "canCollide": false,
+      "canTouch": false,
+      "canQuery": false,
+      "maxSourceDimension": 4.0
+    }
+  ],
+  "finalLibrary": {
+    "sha256": "e4d3a26a3acac3ca696d6cfe13e0eaf968add6022b0e6a8d45361364086b99b4",
+    "rootCount": 81
+  }
+}

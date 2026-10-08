@@ -1,0 +1,33 @@
+{
+  "name": "TidalAquariumFishArtQA",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "Camera": {
+        "$className": "Camera",
+        "$properties": {
+          "FieldOfView": 70
+        }
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "FishingShared": {
+        "$path": "src/shared"
+      },
+      "FishingArt": {
+        "$path": "assets/roblox/FishingArt.rbxmx"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "FishArtCoverageSmoke": {
+          "$path": "tests/FishArtCoverageSmoke.client.luau"
+        }
+      }
+    }
+  }
+}

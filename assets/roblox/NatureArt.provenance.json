@@ -1,0 +1,167 @@
+{
+  "schema": "nature-art-native-provenance.v1",
+  "status": "validated_native_readback",
+  "sourcePackage": "Quaternius Ultimate Stylized Nature",
+  "sourceBlend": "fishing/assets/art/premade-environment/quaternius-ultimate-stylized-nature/source/AllModels.blend",
+  "sourceBlendSha256": "6dbd16ccc5bbbf5f59306c4e49fa875552d35fd95a7bfc84f521af8fb35a60cd",
+  "nativeLog": "build/nature-integration-20261002/native-export/studio-native-export.log",
+  "nativeCollectorReport": "build/nature-integration-20261002/native-export/readback/native-export-report.json",
+  "nativeRunToken": "1ac44b7c-b91e-475b-b908-a26677eab47f",
+  "publicAdaptation": {
+    "allMeshParts": "DoubleSided=true; Transparency=0",
+    "alphaAssetKeys": [
+      "PlantFlowers",
+      "Bush",
+      "FlowerClump"
+    ],
+    "alphaMode": "Enum.AlphaMode.Transparency",
+    "alphaColorMap": "existing public MeshPart.TextureID copied to public SurfaceAppearance.ColorMap",
+    "opaqueAssetKeys": [
+      "GrassSmall"
+    ],
+    "hiddenTexturePackAccess": false,
+    "inventedImageIds": false
+  },
+  "assets": [
+    {
+      "templateKey": "PlantFlowers",
+      "templateName": "Quaternius_PlantFlowers_r1",
+      "sourceObject": "Plant_Flowers",
+      "role": "supplemental_plant",
+      "openCloudModelAssetId": "116563205382218",
+      "file": "fishing/assets/roblox/NatureArt/Quaternius_PlantFlowers_r1.rbxm",
+      "serializationFormat": "rbxm",
+      "bytes": 10311,
+      "sha256": "ba9717a8ab5001ba2892950ca737127b2c20ef490ff6aa0a3954c3ac4ff449b8",
+      "native": {
+        "runToken": "1ac44b7c-b91e-475b-b908-a26677eab47f",
+        "logSha256": "d2fad7684a08e3627afbaf43dd8d636639b7b2be778d2f4497adeceae5459f42",
+        "collectorReportSha256": "360938a14a82f97bf896860f53ddb78de14918c0b55c0e178abce5cac98af6eb",
+        "rawSurfaceAppearances": 0,
+        "rawDoubleSided": [
+          {
+            "value": "false",
+            "available": true
+          }
+        ],
+        "adaptedSurfaceAppearances": 1,
+        "status": "validated"
+      },
+      "sourceGLB": {
+        "path": "fishing/assets/art/premade-environment/quaternius-ultimate-stylized-nature/exports/roblox-r1/Quaternius_PlantFlowers_r1.glb",
+        "sha256": "f55bedfa64813fa29b2837587ddc8b555b28c703db74c55715ea4f06e50661de",
+        "triangles": 330,
+        "positionBboxSize": [
+          1.4845626950263977,
+          1.181450515985489,
+          1.533149003982544
+        ]
+      }
+    },
+    {
+      "templateKey": "Bush",
+      "templateName": "Quaternius_Bush_r1",
+      "sourceObject": "Bush_Large",
+      "role": "bush",
+      "openCloudModelAssetId": "110880623391830",
+      "file": "fishing/assets/roblox/NatureArt/Quaternius_Bush_r1.rbxm",
+      "serializationFormat": "rbxm",
+      "bytes": 14930,
+      "sha256": "42043b837b47ce06f01cca83674f214b3250d04206c5ce74d8c2839eed6eac67",
+      "native": {
+        "runToken": "1ac44b7c-b91e-475b-b908-a26677eab47f",
+        "logSha256": "d2fad7684a08e3627afbaf43dd8d636639b7b2be778d2f4497adeceae5459f42",
+        "collectorReportSha256": "360938a14a82f97bf896860f53ddb78de14918c0b55c0e178abce5cac98af6eb",
+        "rawSurfaceAppearances": 0,
+        "rawDoubleSided": [
+          {
+            "value": "false",
+            "available": true
+          }
+        ],
+        "adaptedSurfaceAppearances": 1,
+        "status": "validated"
+      },
+      "sourceGLB": {
+        "path": "fishing/assets/art/premade-environment/quaternius-ultimate-stylized-nature/exports/roblox-r1/Quaternius_Bush_r1.glb",
+        "sha256": "f1577639a610e815bf7289396466efcf6b9b452cc4a93332df08c4bb371ffaa8",
+        "triangles": 276,
+        "positionBboxSize": [
+          1.9031978249549866,
+          1.2192465662956238,
+          0.7238304018974304
+        ]
+      }
+    },
+    {
+      "templateKey": "FlowerClump",
+      "templateName": "Quaternius_FlowerClump_r1",
+      "sourceObject": "Flower_1_Clump",
+      "role": "flower_clump",
+      "openCloudModelAssetId": "112107294849825",
+      "file": "fishing/assets/roblox/NatureArt/Quaternius_FlowerClump_r1.rbxm",
+      "serializationFormat": "rbxm",
+      "bytes": 13639,
+      "sha256": "61920f9c676e940b740d9f7d1729bf02a89b00e02ba2b1ccacae42de292fa497",
+      "native": {
+        "runToken": "1ac44b7c-b91e-475b-b908-a26677eab47f",
+        "logSha256": "d2fad7684a08e3627afbaf43dd8d636639b7b2be778d2f4497adeceae5459f42",
+        "collectorReportSha256": "360938a14a82f97bf896860f53ddb78de14918c0b55c0e178abce5cac98af6eb",
+        "rawSurfaceAppearances": 0,
+        "rawDoubleSided": [
+          {
+            "value": "false",
+            "available": true
+          }
+        ],
+        "adaptedSurfaceAppearances": 1,
+        "status": "validated"
+      },
+      "sourceGLB": {
+        "path": "fishing/assets/art/premade-environment/quaternius-ultimate-stylized-nature/exports/roblox-r1/Quaternius_FlowerClump_r1.glb",
+        "sha256": "aef89c0997fbacedfbec51ef3e1552e483f4fe190896b4bf75829b5437420238",
+        "triangles": 620,
+        "positionBboxSize": [
+          0.4711368530988693,
+          0.6713448707014322,
+          0.43519994616508484
+        ]
+      }
+    },
+    {
+      "templateKey": "GrassSmall",
+      "templateName": "Quaternius_GrassSmall_r1",
+      "sourceObject": "Grass_Small",
+      "role": "grass_small",
+      "openCloudModelAssetId": "112126540379688",
+      "file": "fishing/assets/roblox/NatureArt/Quaternius_GrassSmall_r1.rbxm",
+      "serializationFormat": "rbxm",
+      "bytes": 6248,
+      "sha256": "a9147dae8b8ec146fdcf4322bf9640347cc33fbe5c139a056ff93b8e65b3a0ff",
+      "native": {
+        "runToken": "1ac44b7c-b91e-475b-b908-a26677eab47f",
+        "logSha256": "d2fad7684a08e3627afbaf43dd8d636639b7b2be778d2f4497adeceae5459f42",
+        "collectorReportSha256": "360938a14a82f97bf896860f53ddb78de14918c0b55c0e178abce5cac98af6eb",
+        "rawSurfaceAppearances": 0,
+        "rawDoubleSided": [
+          {
+            "value": "false",
+            "available": true
+          }
+        ],
+        "adaptedSurfaceAppearances": 0,
+        "status": "validated"
+      },
+      "sourceGLB": {
+        "path": "fishing/assets/art/premade-environment/quaternius-ultimate-stylized-nature/exports/roblox-r1/Quaternius_GrassSmall_r1.glb",
+        "sha256": "e91c7b744be17bca4db8686b6a4ad2f733e347d5c033fc8dbe50d3ac01992919",
+        "triangles": 58,
+        "positionBboxSize": [
+          0.4700440466403961,
+          0.39410051656886935,
+          0.27753642201423645
+        ]
+      }
+    }
+  ]
+}

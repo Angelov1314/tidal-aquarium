@@ -1,0 +1,94 @@
+{
+  "schema": "harbor-fisher-formal-template-provenance-v1",
+  "assetPath": "fishing/assets/roblox/NPCTemplates.rbxmx",
+  "assetSha256": "55b55585453289eb38b895ca86d3b8cf878399a4b15124277b2a04d411aeb965",
+  "assetBytes": 550746,
+  "sourceSavedQa": {
+    "path": "[external source path omitted]",
+    "sha256": "0dd28a62d0f4f1740e8632b8766d4ab1825ad3798026508847cb1950449b3742",
+    "bytes": 6340216,
+    "selectedPath": "ServerStorage/NPCTemplates/HarborFisher",
+    "selectionRule": "top-level ServerStorage direct NPCTemplates direct HarborFisher; backup/candidate siblings excluded"
+  },
+  "extraction": {
+    "tool": "fishing/tools/extract_npc_template.py",
+    "contract": "embedded-pbr-r1",
+    "command": "python3 fishing/tools/extract_npc_template.py --input [external source path omitted]ntract embedded-pbr-r1 --output build/npc-material-diagnosis/formal-npc-integration/current-qa-extract/NPCTemplates.rbxmx --audit build/npc-material-diagnosis/formal-npc-integration/current-qa-extract/NPCTemplates.audit.json",
+    "status": "candidate-written; source contract and formal readback audits pass",
+    "sourceModelAssetId": "70456760093531",
+    "candidateCreatorRun": "1790899376",
+    "candidateGeometryGlbSha256": "3749fb54329f3c8c4235172246c61e09224b5530c542dbc4e9095e371e5a2d50",
+    "idleAssetId": "103936227005962",
+    "walkAssetId": "73838459234040",
+    "candidatePath": "build/npc-material-diagnosis/formal-npc-integration/current-qa-extract/NPCTemplates.rbxmx",
+    "candidateSha256": "55b55585453289eb38b895ca86d3b8cf878399a4b15124277b2a04d411aeb965",
+    "candidateBytes": 550746,
+    "auditPath": "build/npc-material-diagnosis/formal-npc-integration/current-qa-extract/NPCTemplates.audit.json"
+  },
+  "sourceLineage": {
+    "creator": "Quaternius",
+    "packs": [
+      "Universal Base Characters Standard",
+      "Modular Character Outfits - Fantasy Standard",
+      "Universal Animation Library Standard"
+    ],
+    "license": "CC0 1.0",
+    "licenseEvidence": "fishing/assets/art/premade-characters/universal/source/download-manifest.json and each extracted pack License_Standard.txt",
+    "derivedSourceReadme": "fishing/assets/art/premade-characters/universal/exports/harbor-male-peasant/README.md"
+  },
+  "graphContract": {
+    "MeshPart": 9,
+    "SurfaceAppearance": 9,
+    "Bone": 59,
+    "Motor6D": 9,
+    "Weld": 1,
+    "CFrameValue": 249,
+    "Animation": 2,
+    "humanoidHipHeight": 1.825783605,
+    "publicPbrMaps": "preserved",
+    "opaqueTexturePack": "preserved by saved XML extraction; strict readback required after each build"
+  },
+  "runtimeEvidence": {
+    "currentSavedQaRuntime": "PASS: real Idle/Walk skin, rig, and visible MeshPart rest-envelope contact accepted in current QA run 1790904032",
+    "currentSceneInstance": "Workspace.FishingWorld.Zone1.NPC_Greeter_1",
+    "currentRuntimeStatus": "accepted diagnostic QA evidence; this does not by itself prove a fresh Rojo build was engine-run"
+  },
+  "freshBuildEvidence": {
+    "default": "PASS: Rojo build, formal structure audit, strict XML readback, fresh Play startup and representative player Remote flow; UI defects found, visual and full UI acceptance pending",
+    "npcqa": "PASS: Rojo build, formal structure audit, strict XML readback, and fresh engine grounding/patrol/skinned-animation checks",
+    "productionApproved": false,
+    "runtimeAcceptanceBoundary": "Current saved QA runtime evidence remains separate from these fresh build artifacts"
+  },
+  "rejectedAssetIds": [
+    "124549918346513",
+    "134132267720909"
+  ],
+  "authorOriginalGlbSha256": "140bbabb02cf7070f787091b8c06bdd363d5224b3ae7020cf4563a4c0dc74f7c",
+  "previousEmbeddedExportSha256": "2608d16c439adc92f6812a0c7de8161e014ef1f14d381aea6ec662ab126ef0e8",
+  "formalReadback": {
+    "adapter": "build/npc-material-diagnosis/formal-npc-integration/run_strict_readback.py",
+    "perPropertyOpaquePayloadContract": "719 selected BinaryString/SharedString property paths; candidate and rebuilt payload bytes+SHA256 equal; SharedString/BinaryString empty Tags alias normalized by property path",
+    "default": {
+      "buildPath": "build/npc-material-diagnosis/formal-npc-integration/formal-default-embedded-pbr-grounding-20261002.rbxlx",
+      "buildSha256": "ca48603c10d69aaa5f89e4b76309596fc8ee2f257160d0f9d0d69c46bca13d2b",
+      "buildBytes": 3693114,
+      "readbackAudit": "build/npc-material-diagnosis/formal-npc-integration/default-readback.audit.json",
+      "readbackStatus": "rojo-readback-pass",
+      "structureAudit": "build/npc-material-diagnosis/formal-npc-integration/default-structure.json",
+      "scriptCount": 35,
+      "engineRuntime": "startup and representative player Remote flow pass; visual and full UI acceptance pending",
+      "engineEvidence": "NPC_PRODUCTION_INTEGRATION_2026-10-02.md; Studio CreatorOutput 2026-10-01T05:56:51.812Z FISHING_WORLD_READY, run 1790908378-48658 at 06:24:08.007Z PRODUCTION_SLICE_DRIVER_DONE; screenshot UI defects and zero-child bag probe at 06:42:14.757Z keep M1/G3 open (Studio log clock lags host)"
+    },
+    "npcqa": {
+      "buildPath": "build/npc-material-diagnosis/formal-npc-integration/formal-npcqa-embedded-pbr-grounding-20261002.rbxlx",
+      "buildSha256": "88e5c245466dd614e79e3c9e760bdf883a927d801bd92eafab8afbbac1c2353f",
+      "buildBytes": 3482414,
+      "readbackAudit": "build/npc-material-diagnosis/formal-npc-integration/npcqa-readback.audit.json",
+      "readbackStatus": "rojo-readback-pass",
+      "structureAudit": "build/npc-material-diagnosis/formal-npc-integration/npcqa-structure.json",
+      "scriptCount": 27,
+      "engineRuntime": "pass: visible rest envelope grounding, land patrol, server-driven Walk and non-root limb deformation",
+      "engineEvidence": "NPC_PRODUCTION_INTEGRATION_2026-10-02.md; Studio CreatorOutput 2026-10-01T05:48:35.835Z and 05:48:35.882Z; fresh build hash bound above; whole-world and fresh visual acceptance excluded"
+    }
+  }
+}
